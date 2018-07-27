@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT spghartigmailcom_spgharti_de_1.wsgi:application
